@@ -3,7 +3,7 @@
 This project analyzes the Moroccan startup ecosystem using Tableau.
 
 ## 📸 Dashboard Preview
-![Dashboard](morocco-startups-dashboard)
+![Dashboard](morocco-startups-dashboard.png)
 
 ## 📌 Project Overview
 This dashboard provides insights into:
